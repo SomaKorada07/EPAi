@@ -1,4 +1,4 @@
-# SESSION 5
+# SESSION 5 - Functional Parameters
 
 ## time_it()
 
